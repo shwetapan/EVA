@@ -1,4 +1,4 @@
-There are different kind of CNN architecture. How do we define the best architecture? For this, we need to know what is the meaning of best nodel? 
+There are different kind of CNN architecture. How do we define the best architecture? For this, we need to know what is the meaning of best model? 
 
 #### Best Model
 
